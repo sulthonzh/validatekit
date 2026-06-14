@@ -1,0 +1,12 @@
+{
+  "name": "validatekit",
+  "version": "1.0.0",
+  "description": "Zero-dep validation library — type checks, format checks, composition utilities. 90+ validators.",
+  "type": "module",
+  "main": "index.js",
+  "bin": { "validatekit": "cli.js" },
+  "scripts": { "test": "node test.js" },
+  "keywords": ["validate","validation","is","check","type","format","email","url","uuid","credit-card","zero-dependency"],
+  "license": "MIT",
+  "author": "sulthonzh"
+}
